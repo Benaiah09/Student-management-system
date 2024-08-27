@@ -73,12 +73,3 @@ The application is built with three main classes:
     - To delete a student, select option `3` and enter the student's ID.
     - To view all students, select option `4`.
 
-## Contributions
-
-Feel free to contribute to this project by submitting pull requests or opening issues with suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Happy managing! 🚀
